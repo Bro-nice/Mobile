@@ -1,0 +1,6 @@
+{
+  "name": "DayScore",
+  "description": "DayScore AI daily reflection coach & interactive portal for https://dayscore.ai.studio. Honest, supportive daily scores, actionable insights, and micro-challenges without guilt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
